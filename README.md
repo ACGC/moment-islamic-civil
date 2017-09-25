@@ -1,2 +1,3 @@
-# moment-islamic-civil
-A Hijri calendar (Based on islamic civil calculation) plugin for moment.js.
+moment-hijri-civil
+
+A Hijri calendar (Based on civil calculations) plugin for moment.js

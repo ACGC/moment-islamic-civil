@@ -1,0 +1,36 @@
+{
+  "name": "@whitewater/moment-islamic-civil",
+  "version": "1.0.0",
+  "description": "A Hijri calendar (Based on islamic civil calculation) plugin for moment.js.",
+  "main": "moment-civil.js",
+  "dependencies": {
+    "chai": "^1.8.1",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^3.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACGC/moment-islamic-civil.git"
+  },
+  "keywords": [
+    "Hijri",
+    "islamic",
+    "civil",
+    "calendar"
+  ],
+  "author": "Samar Sultan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ACGC/moment-islamic-civil/issues"
+  },
+  "homepage": "https://github.com/ACGC/moment-islamic-civil#readme",
+  "publishConfig": {
+    "registry": "https://npm-registry.whitewater.ibm.com"
+  }
+}
