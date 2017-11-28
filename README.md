@@ -7,11 +7,6 @@ A Hijri calendar (Based on civil calculations) plugin for moment.js
 
 ### Node.js
 
-```shell
-npm install @whitewater/moment-islamic-civil
-```
-
-
 ```js
 var moment = require('moment-civil');
 moment().format('iYYYY/iM/iD');
